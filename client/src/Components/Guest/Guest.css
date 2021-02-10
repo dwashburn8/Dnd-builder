@@ -1,0 +1,23 @@
+.guest-wrapper{
+    height: 100vh;
+    background-image: url("../../images/Home\ Screen.png");
+    background-size: cover;
+    text-align: right;
+}
+
+.guest-wrapper h1{
+    color: #FFF;
+    font-weight: 100;
+    padding-bottom: 40px;
+    padding-right: 20px;
+}
+
+.guest-wrapper img{
+    padding-bottom: 40px;
+    
+}
+
+.content-container{
+    padding-top: 15%;
+    padding-right: 15%;
+}

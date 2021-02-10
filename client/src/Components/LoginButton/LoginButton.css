@@ -1,0 +1,15 @@
+.sing-in{
+	margin-right: 20px;
+	font-size: 35px;
+    padding: 12px;
+    border-radius: 35px;
+	min-width: 210px;
+	background-color: #FFF;
+	color: #F97B82;
+	border-color: #FFF;
+	border: 1px;
+}
+
+.sing-in:hover{
+	background-color: black;
+}

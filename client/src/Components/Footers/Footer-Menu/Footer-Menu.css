@@ -1,0 +1,42 @@
+
+
+.footer{
+    min-height: 205px;
+
+}
+
+
+
+#Footer-0{
+    background-image:url('../../../images/Footer/footer-5.png');
+    background-size: contain;
+    min-height: 200px!important;
+  }
+#Footer-1{
+    background-image: url("../../../images/Footer/footer-4.png");
+    background-size: contain;
+    min-height: 200px!important;
+
+}
+
+#Footer-2{
+    background-image: url("../../../images/Footer/footer-3.png");
+    background-size: contain;
+    min-height: 200px!important;
+
+}
+
+#Footer-3{
+    background-image: url("../../../images/Footer/footer-2.png");
+    background-size: contain;
+    min-height: 200px;
+
+}
+
+#Footer-4{
+    background-image: url("../../../images/Footer/footer-1.png");
+    background-size: contain;
+    min-height: 200px!important;
+
+}
+

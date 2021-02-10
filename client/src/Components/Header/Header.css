@@ -1,0 +1,10 @@
+nav{
+    padding: 35px;
+    /* background-color: #FFF; */
+}
+
+nav h3{
+    margin-left:auto;
+    margin-right:auto;
+    color: black;
+}

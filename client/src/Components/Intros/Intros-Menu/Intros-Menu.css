@@ -1,0 +1,46 @@
+#Intro-0{
+    background-image: url("../../../images/Intro/intro-0.png");
+    background-size: contain;
+  }
+  
+.container1 #Intro-0{
+  min-height: 90px;
+}
+
+  #Intro-1{
+    background-image: url("../../../images/Intro/intro-1.png");
+    background-size: contain;
+  }
+
+  .container1 #Intro-1{
+    min-height: 90px;
+  }
+  
+  #Intro-2{
+    background-image: url("../../../images/Intro/intro-2.png");
+    background-size: contain;
+  }
+
+  .container1 #Intro-2{
+    min-height: 90px;
+  }
+
+  #Intro-3{
+    background-image: url("../../../images/Intro/intro-3.png");
+    background-size: contain;
+  }
+
+  .container1 #Intro-3{
+    min-height: 90px;
+  }
+
+  #Intro-4{
+    background-image: url("../../../images/Intro/intro-4.png");
+    background-size: contain;
+  }
+
+
+  .container1 #Intro-4{
+    min-height: 90px;
+  }
+  

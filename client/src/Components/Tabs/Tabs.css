@@ -1,0 +1,19 @@
+#tabsContainer{
+    /* display: flex;
+    flex-direction: row-reverse; */
+}
+#webBox{
+    position: relative;
+    top: -15px;
+    left: -15px;
+    width: 990px;
+    height: 55px;
+    background-color: #323232;
+    margin-bottom:-55px;
+    z-index: -1;
+}
+
+#firstPage{
+    border-left: none!important;
+    padding-left: 0px!important;
+}

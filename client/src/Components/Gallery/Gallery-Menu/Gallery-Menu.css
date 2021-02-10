@@ -1,0 +1,31 @@
+.gallery{
+    /* height: 100%; */
+    min-height: 280px;
+}
+
+
+
+#Gallery-0{
+    background-image: url("../../../images/Gallery/gallery-4.png");
+}
+#board-2 #Gallery-0{
+    max-height:600px;
+    min-height: 470px;
+}
+
+#Gallery-1{
+    background-image: url("../../../images/Gallery/gallery-3.png");
+    
+}
+
+#container2 #Gallery-1{
+    min-height: 470px;
+}
+
+#Gallery-2{
+    background-image: url("../../../images/Gallery/gallery-2.png");
+}
+
+#Gallery-3{
+    background-image: url("../../../images/Gallery/gallery-1.png");
+}

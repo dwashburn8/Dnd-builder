@@ -1,0 +1,38 @@
+.features{
+    /* height: 100%; */
+    min-height: 280px;
+}
+
+#board-2 .features{
+    height: 100%;
+    max-height:500px;
+    min-height: 380px;
+
+}
+
+
+#Features-0{
+    background-image:url("../../../images/Features/features-4.png");
+    background-size: contain;
+  }
+
+#Features-1{
+    background-image: url("../../../images/Features/features-3.png");
+    background-size: contain;
+}
+
+#Features-2{
+    background-image: url("../../../images/Features/features-2.png");
+}
+
+#container2 #Features-2{
+    min-height: 380px;
+}
+
+#Features-3{
+    background-image: url("../../../images/Features/features-1.png");
+    background-size: contain;
+}
+
+
+
